@@ -1,0 +1,45 @@
+{
+    "soilMoistureReadings": [
+      {
+        "range": "0-10%",
+        "interpretation": "Soil is extremely dry",
+        "recommendations": "Your soil is very dry. Water your crops immediately to prevent them from drying out."
+      },
+      {
+        "range": "10%-20%",
+        "interpretation": "Soil is dry, and plants might show signs of water stress",
+        "recommendations": "The soil is dry, and your plants may start wilting. It's a good time to water them."
+      },
+      {
+        "range": "20-30%",
+        "interpretation": "Soil moisture is low",
+        "recommendations": "The soil is a bit dry. Water your crops soon to keep them healthy."
+      },
+      {
+        "range": "30-40%",
+        "interpretation": "Ideal moisture for most crops",
+        "recommendations": "Your soil has the perfect amount of moisture. Keep up the good work and water as usual."
+      },
+      {
+        "range": "40-50%",
+        "interpretation": "Soil is moist, monitor signs of overwatering",
+        "recommendations": "The soil is nicely moist. Keep an eye on it and avoid watering too much."
+      },
+      {
+        "range": "50-70%",
+        "interpretation": "Soil is wet enough, reduce watering",
+        "recommendations": "The soil is already wet. Cut back on watering to avoid problems."
+      },
+      {
+        "range": "70-80%",
+        "interpretation": "The soil is holding excess water",
+        "recommendations": "The soil has too much water. Let it dry out before watering again."
+      },
+      {
+        "range": "80-100%",
+        "interpretation": "Excessive moisture, avoid further irrigation",
+        "recommendations": "There is too much water in the soil. Stop watering until it dries out a bit."
+      }
+    ]
+  }
+  
